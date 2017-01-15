@@ -1,0 +1,2 @@
+# SpringBootMicroservice
+On souhaite créer une application basée sur des micros services qui permet de gérer des ordres d’achat ou de vente des actions relatives à des sociétés cotées en bourse. Chaque ordre et définit par son numéro qui est auto incrémenté, sa date, le nombre d’actions, le prix d’une action. Il existe deux types d’ordres Achat ou Vente. Chaque ordre concerne une société. Les sociétés sont caractérisée par un code de type String, et par le nom de la société. 
